@@ -28,8 +28,8 @@ class App extends Component {
       <div>
         <div className="title">
           <h1 className="intro">
-             Einstein Vision Demo
-             <div className="detail">of the General Image Classifier</div>
+             Dog Breed Detector
+             <!--div className="detail">of the General Image Classifier</div-->
           </h1>
         </div>
         <div className={classNames(
@@ -88,10 +88,10 @@ class App extends Component {
           </Dropzone>
         </div>
 
-        <div className="footer">
+        <!--div className="footer">
           <a href="https://github.com/heroku/einstein-vision-node">GitHub</a>
           <a href="https://metamind.readme.io/v1/docs">API Docs</a>
-        </div>
+        </div-->
       </div>
     );
   }
