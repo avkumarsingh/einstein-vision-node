@@ -89,7 +89,7 @@ class App extends Component {
         </div>
 
         <div className="footer">
-          
+          © Avijeet Singh
         </div>
       </div>
     );
