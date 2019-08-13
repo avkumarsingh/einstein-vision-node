@@ -29,7 +29,7 @@ class App extends Component {
         <div className="title">
           <h1 className="intro">
              Dog Breed Detector
-             <!--div className="detail">of the General Image Classifier</div-->
+             <div className="detail">Powered by Einstein Vision</div>
           </h1>
         </div>
         <div className={classNames(
